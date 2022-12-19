@@ -1,0 +1,9 @@
+.MuiCard-root.same-height {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+body {
+  background-color: blanchedalmond !important;
+}
